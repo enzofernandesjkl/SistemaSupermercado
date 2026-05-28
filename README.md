@@ -62,3 +62,8 @@ O projeto utiliza conteúdos estudados em aula, como:
 ## 💻 Como Executar o Projeto
 
 1. Baixe ou clone o repositório:
+
+
+=====================================================
+
+![Cadastro](C:\Users\enzo.fernandes\Downloads\Compra_Finalizada.png)
